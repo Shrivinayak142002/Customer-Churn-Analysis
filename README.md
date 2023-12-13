@@ -3,7 +3,7 @@
 
 ## 🔴 One of my previous Sessions on EDA, Model Building & Model Deployment:
 
-[![Alt text](https://raw.githubusercontent.com/pik1989/MLProject-Churn-Analysis-And-Prediction-Model/main/images/CC.JPG)]
+
 
 
 ## 🔴 What are the different Churn Scenarios ?
